@@ -2,33 +2,33 @@
 import MainLayout from '../layouts/MainLayout.astro';
 
 const mainCategories = [
-  "Movement & Posture",
-  "Sleep & Recovery",
-  "Heart & Circulation",
-  "Digestion & Gut",
-  "Skin & Senses",
-  "Causes & Conditions"
+  "पाचन और अग्नि",
+  "नींद और विश्राम",
+  "हृदय और परिसंचरण",
+  "त्वचा और इंद्रियां",
+  "आसन और मुद्रा",
+  "कारण और स्थितियां"
 ];
 ---
 
 <MainLayout 
-  title="Page Not Found | Sehat Brahmagyaan.in"
-  description="The page you are looking for could not be found."
+  title="पेज नहीं मिला | Sehat Brahmagyaan"
+  description="आप जो पेज ढूंढ रहे हैं वह मौजूद नहीं है।"
 >
 
   <section class="not-found">
     <h1>404</h1>
-    <h2>Page not found</h2>
+    <h2>पेज नहीं मिला</h2>
     <p>
-      The page you are looking for doesn’t exist or may have been moved.
+      आप जिस पेज को ढूंढ रहे हैं वह मौजूद नहीं है या स्थानांतरित कर दिया गया है।
     </p>
 
     <div class="actions">
-      <a href="/" class="btn">Go to Homepage</a>
+      <a href="/" class="btn">होमपेज पर जाएं</a>
     </div>
 
     <div class="categories">
-      <h3>Browse by Category</h3>
+      <h3>श्रेणी के अनुसार देखें</h3>
       <div class="category-list">
         {mainCategories.map(category => (
           <a 
