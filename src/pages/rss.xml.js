@@ -9,8 +9,8 @@ export async function GET(context) {
   );
 
   return rss({
-    title: 'Better Health Research',
-    description: 'Scientific health research articles and analysis.',
+    title: 'Sehat.Brahmagyaan.in',
+    description: 'Ayurveda and Yoga knowledge with Scientific Health Research and Analysis.',
     site: context.site, // IMPORTANT
     items: sorted.map((article) => ({
       title: article.data.title,
