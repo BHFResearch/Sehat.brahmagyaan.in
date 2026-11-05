@@ -1,10 +1,9 @@
 ---
 title: "क्या सुबह खाली पेट अजवाइन पानी पीना स्वास्थ्य के लिए ठीक है?"
-slug: "kya-subah-khali-pet-ajwain-paani-peena-swasthya-ke-liye-theek-hai"
+category: "Daily Habits & Immunity"
 pubDate: 2026-11-05
-description: "सुबह खाली पेट अजवाइन पानी पीने की आदत — आयुर्वेद और आधुनिक विज्ञान की नजर से फायदे, सावधानियां और सही तरीका जानें।"
-keywords: "सुबह अजवाइन पानी, खाली पेट अजवाइन पानी, यवानी पानी आयुर्वेद, अजवाइन पानी पाचन"
-author: "Sehat Team"
+description: "क्या सुबह खाली पेट अजवाइन पानी पीना स्वास्थ्य के लिए ठीक है?"
+image: "/images/articles/kya-subah-khali-pet-ajwain-paani-peena-swasthya-ke-liye-theek-hai.jpg"
 ---
 
 <figure>

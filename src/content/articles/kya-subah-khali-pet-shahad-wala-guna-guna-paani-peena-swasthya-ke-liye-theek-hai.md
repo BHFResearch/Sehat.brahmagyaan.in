@@ -1,10 +1,9 @@
 ---
 title: "क्या सुबह खाली पेट शहद वाला गुनगुना पानी पीना स्वास्थ्य के लिए ठीक है?"
-slug: "kya-subah-khali-pet-shahad-wala-guna-guna-paani-peena-swasthya-ke-liye-theek-hai"
+category: "Ayurveda & Lifestyle"
 pubDate: 2026-11-05
-description: "सुबह खाली पेट शहद वाले गुनगुने पानी की आदत — आयुर्वेद और आधुनिक विज्ञान की नजर से फायदे, सावधानियां और सही तरीका जानें।"
-keywords: "सुबह शहद वाला पानी, खाली पेट शहद पानी, मधुदक आयुर्वेद, शहद गुनगुना पानी"
-author: "Sehat Team"
+description: "क्या सुबह खाली पेट शहद वाला गुनगुना पानी पीना स्वास्थ्य के लिए ठीक है?"
+image: "/images/articles/kya-subah-khali-pet-shahad-wala-guna-guna-paani-peena-swasthya-ke-liye-theek-hai.jpg"
 ---
 
 <figure>

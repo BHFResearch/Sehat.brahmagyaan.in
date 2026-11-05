@@ -1,10 +1,9 @@
 ---
 title: "क्या सुबह खाली पेट कच्चा अदरक चबाना स्वास्थ्य के लिए ठीक है?"
-description: "सुबह खाली पेट कच्चा अदरक चबाने के फायदे, आयुर्वेद की राय और आधुनिक विज्ञान क्या कहता है — सरल और संतुलित जानकारी।"
+category: "Ayurveda & Lifestyle"
 pubDate: 2026-11-05
-slug: kya-subah-khali-pet-kacha-adrak-chabana-swasthya-ke-liye-theek-hai
-image: /images/articles/kya-subah-khali-pet-kacha-adrak-chabana-swasthya-ke-liye-theek-hai.jpg
-imagePrompt: "A fair-skinned beautiful man in his early 50s with short salt-and-pepper hair and a neat trimmed beard, wearing a light gray contemporary cotton shirt, medium close-up as he holds a thin slice of fresh ginger between his fingers near his mouth, seated at a bright minimal elegant living room corner with soft natural window light, a single potted plant and soft sofa softly blurred in background, calm focused expression, photorealistic 16:9, natural soft lighting, high detail on hands face and ginger, different person, different age, different gender balance, different clothing, and completely different background from other images in this series"
+description: "क्या सुबह खाली पेट कच्चा अदरक चबाना स्वास्थ्य के लिए ठीक है?"
+image: "/images/articles/kya-subah-khali-pet-kacha-adrak-chabana-swasthya-ke-liye-theek-hai.jpg"
 ---
 
 <figure>

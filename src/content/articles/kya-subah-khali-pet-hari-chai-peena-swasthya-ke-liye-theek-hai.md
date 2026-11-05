@@ -1,8 +1,8 @@
 ---
 title: "क्या सुबह खाली पेट हरी चाय पीना स्वास्थ्य के लिए ठीक है?"
-category: "Diet & Digestion"
+category: "Ayurveda & Lifestyle"
 pubDate: 2026-11-05
-description: "सुबह खाली पेट हरी चाय पीने की आदत स्वास्थ्य के लिए कितनी अच्छी है? आयुर्वेद और आधुनिक विज्ञान की राय जानें।"
+description: "क्या सुबह खाली पेट हरी चाय पीना स्वास्थ्य के लिए ठीक है?"
 image: "/images/articles/kya-subah-khali-pet-hari-chai-peena-swasthya-ke-liye-theek-hai.jpg"
 ---
 <figure style="margin:35px auto; text-align:center;">

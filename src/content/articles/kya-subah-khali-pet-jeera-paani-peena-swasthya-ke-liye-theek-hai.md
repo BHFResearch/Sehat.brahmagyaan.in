@@ -1,10 +1,9 @@
 ---
 title: "क्या सुबह खाली पेट जीरा पानी पीना स्वास्थ्य के लिए ठीक है?"
-description: "सुबह खाली पेट जीरा पानी पीने के फायदे, आयुर्वेद की राय और आधुनिक विज्ञान क्या कहता है — सरल और संतुलित जानकारी।"
+category: "Daily Habits & Immunity"
 pubDate: 2026-11-05
-slug: kya-subah-khali-pet-jeera-paani-peena-swasthya-ke-liye-theek-hai
-image: /images/articles/kya-subah-khali-pet-jeera-paani-peena-swasthya-ke-liye-theek-hai.jpg
-imagePrompt: "A fair-skinned beautiful woman in her late 30s with long straight dark hair in a low ponytail, wearing a soft beige cotton homewear top, medium close-up as she holds a clear glass of warm cumin water with floating seeds near her lips about to sip, sitting by a bright modern living room window seat with soft natural daylight, a green plant and books softly blurred in background, calm peaceful expression, photorealistic 16:9, natural soft lighting, high detail on face hands and glass, different person, different age, different gender balance, different clothing, and completely different background from other images in this series"
+description: "क्या सुबह खाली पेट जीरा पानी पीना स्वास्थ्य के लिए ठीक है?"
+image: "/images/articles/kya-subah-khali-pet-jeera-paani-peena-swasthya-ke-liye-theek-hai.jpg"
 ---
 
 <figure>

@@ -1,9 +1,9 @@
 ---
 title: "क्या सुबह खाली पेट सौंफ पानी पीना स्वास्थ्य के लिए ठीक है?"
-description: "सुबह खाली पेट सौंफ पानी पीने के फायदे और सावधानियां — आयुर्वेद और आधुनिक विज्ञान की नजर से सरल जानकारी।"
+category: "Ayurveda & Lifestyle"
 pubDate: 2026-11-05
-slug: kya-subah-khali-pet-saunf-paani-peena-swasthya-ke-liye-theek-hai
-image: /images/articles/kya-subah-khali-pet-saunf-paani-peena-swasthya-ke-liye-theek-hai.jpg
+description: "क्या सुबह खाली पेट सौंफ पानी पीना स्वास्थ्य के लिए ठीक है?"
+image: "/images/articles/kya-subah-khali-pet-saunf-paani-peena-swasthya-ke-liye-theek-hai.jpg"
 ---
 
 <figure>

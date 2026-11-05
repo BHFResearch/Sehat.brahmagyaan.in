@@ -1,10 +1,9 @@
 ---
 title: "रोजाना हल्का ध्यान करना — आयुर्वेद क्या कहता है और विज्ञान क्या कहता है?"
-description: "रोजाना हल्का ध्यान या मेडिटेशन करने के फायदे, पतंजलि योग सूत्र और आधुनिक विज्ञान की नजर — सरल, संतुलित जानकारी।"
+category: "Ayurveda & Lifestyle"
 pubDate: 2026-11-05
-slug: rozana-halka-dhyan-karna-ayurveda-aur-vigyan
-image: /images/articles/rozana-halka-dhyan-karna-ayurveda-aur-vigyan.jpg
-imagePrompt: "A fair-skinned beautiful woman in her mid-30s with soft wavy shoulder-length light brown hair, wearing a light pastel green cotton homewear top, medium close-up as she sits quietly with eyes gently closed and hands resting in her lap in a peaceful meditative posture, seated near a bright modern living room window seat with soft natural daylight streaming in, a green potted plant and minimal cushions softly blurred in background, calm serene expression, photorealistic 16:9, natural soft lighting, high detail on face and upper body, different person, different age, different gender balance, different clothing, and completely different background from other images in this series"
+description: "रोजाना हल्का ध्यान करना — आयुर्वेद क्या कहता है और विज्ञान क्या कहता है?"
+image: "/images/articles/rozana-halka-dhyan-karna-ayurveda-aur-vigyan.jpg"
 ---
 
 <figure>

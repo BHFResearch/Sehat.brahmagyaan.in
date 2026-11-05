@@ -1,10 +1,9 @@
 ---
 title: "क्या सुबह खाली पेट नारियल पानी पीना स्वास्थ्य के लिए ठीक है?"
-slug: "kya-subah-khali-pet-nariyal-paani-peena-swasthya-ke-liye-theek-hai"
+category: "Ayurveda & Lifestyle"
 pubDate: 2026-11-05
-description: "सुबह खाली पेट नारियल पानी पीने की आदत आयुर्वेद और आधुनिक विज्ञान की नजर से। फायदे, सावधानियां और सही तरीका जानें।"
-keywords: "सुबह नारियल पानी, खाली पेट नारियल पानी, नारियल पानी फायदे, आयुर्वेद नारियल पानी"
-author: "Sehat Team"
+description: "क्या सुबह खाली पेट नारियल पानी पीना स्वास्थ्य के लिए ठीक है?"
+image: "/images/articles/kya-subah-khali-pet-nariyal-paani-peena-swasthya-ke-liye-theek-hai.jpg"
 ---
 
 <figure>
