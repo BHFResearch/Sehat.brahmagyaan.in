@@ -3,11 +3,11 @@ title: "क्या रोजाना थोड़ा सा बाजरा �
 category: "Digestion & Agni"
 pubDate: 2026-11-24
 description: "बाजरा रोजाना खाने के फायदे, सावधानियां और सही तरीका। आयुर्वेद और आधुनिक विज्ञान की नजर से पाचन और ताकत पर असर समझें।"
-image: "/images/articles/kya-rozana-thoda-sa-bajra-khana-swasthya-ke-liye-theek-hai.jpg"
+image: "/images/articles/kya-rozana-thoda-sa-bajra-khana-swasthya-ke-liye-theek-hai.webp"
 ---
 <figure style="margin:35px auto; text-align:center;">
   <img
-    src="/images/articles/kya-rozana-thoda-sa-bajra-khana-swasthya-ke-liye-theek-hai.jpg"
+    src="/images/articles/kya-rozana-thoda-sa-bajra-khana-swasthya-ke-liye-theek-hai.webp"
     alt="बाजरे की रोटी खाती हुई स्वस्थ महिला का क्लोज-अप"
     loading="lazy"
     style="

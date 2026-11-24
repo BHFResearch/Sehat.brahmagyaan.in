@@ -3,11 +3,11 @@ title: "क्या रोजाना थोड़ा सा ओट्स ख�
 category: "Digestion & Agni"
 pubDate: 2026-11-24
 description: "रोजाना थोड़ा सा ओट्स खाना स्वास्थ्य के लिए फायदेमंद हो सकता है। आयुर्वेद और आधुनिक विज्ञान की नजर से जानें सही मात्रा, फायदे और सावधानी।"
-image: "/images/articles/kya-rozana-thoda-sa-oats-khana-swasthya-ke-liye-theek-hai.jpg"
+image: "/images/articles/kya-rozana-thoda-sa-oats-khana-swasthya-ke-liye-theek-hai.webp"
 ---
 <figure style="margin:35px auto; text-align:center;">
   <img
-    src="/images/articles/kya-rozana-thoda-sa-oats-khana-swasthya-ke-liye-theek-hai.jpg"
+    src="/images/articles/kya-rozana-thoda-sa-oats-khana-swasthya-ke-liye-theek-hai.webp"
     alt="नाश्ते में ओट्स का कटोरा पकड़े हुए व्यक्ति"
     loading="lazy"
     style="

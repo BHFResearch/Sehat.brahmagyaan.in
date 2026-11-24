@@ -3,11 +3,11 @@ title: "क्या रोजाना थोड़ा सा अरहर द�
 category: "Digestion & Agni"
 pubDate: 2026-11-24
 description: "रोजाना थोड़ा सा अरहर दाल खाने के फायदे, सावधानियाँ और सही तरीका — आयुर्वेद और आधुनिक विज्ञान की नजर से सरल जानकारी।"
-image: "/images/articles/kya-rozana-thoda-sa-arhar-dal-khana-swasthya-ke-liye-theek-hai.jpg"
+image: "/images/articles/kya-rozana-thoda-sa-arhar-dal-khana-swasthya-ke-liye-theek-hai.webp"
 ---
 <figure style="margin:35px auto; text-align:center;">
   <img
-    src="/images/articles/kya-rozana-thoda-sa-arhar-dal-khana-swasthya-ke-liye-theek-hai.jpg"
+    src="/images/articles/kya-rozana-thoda-sa-arhar-dal-khana-swasthya-ke-liye-theek-hai.webp"
     alt="अरहर दाल का कटोरा पकड़े एक स्वस्थ महिला"
     loading="lazy"
     style="

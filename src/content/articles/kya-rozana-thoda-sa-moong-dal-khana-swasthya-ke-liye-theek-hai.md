@@ -3,11 +3,11 @@ title: "क्या रोजाना थोड़ा सा मूंग द�
 category: "Digestion & Agni"
 pubDate: 2026-11-24
 description: "रोजाना थोड़ा सा मूंग दाल खाने के फायदे, सही मात्रा और सावधानियाँ — आयुर्वेद और आधुनिक विज्ञान की नजर से सरल जानकारी।"
-image: "/images/articles/kya-rozana-thoda-sa-moong-dal-khana-swasthya-ke-liye-theek-hai.jpg"
+image: "/images/articles/kya-rozana-thoda-sa-moong-dal-khana-swasthya-ke-liye-theek-hai.webp"
 ---
 <figure style="margin:35px auto; text-align:center;">
   <img
-    src="/images/articles/kya-rozana-thoda-sa-moong-dal-khana-swasthya-ke-liye-theek-hai.jpg"
+    src="/images/articles/kya-rozana-thoda-sa-moong-dal-khana-swasthya-ke-liye-theek-hai.webp"
     alt="मूंग दाल का कटोरा पकड़े एक स्वस्थ पुरुष"
     loading="lazy"
     style="
@@ -21,6 +21,7 @@ image: "/images/articles/kya-rozana-thoda-sa-moong-dal-khana-swasthya-ke-liye-th
     "
   />
 </figure>
+
 ## मूंग दाल के बारे में आम धारणा
 
 मूंग दाल (green gram dal) को अक्सर हल्की और सुपाच्य दाल माना जाता है। कई घरों में इसे रोज या अक्सर पकाया जाता है। कुछ लोग इसे प्रोटीन और फाइबर का अच्छा स्रोत मानते हैं, जबकि कुछ को लगता है कि दाल रोज खाने से गैस या भारीपन हो सकता है। सवाल यह है कि क्या रोजाना थोड़ा सा मूंग दाल खाना स्वास्थ्य के लिए ठीक है?

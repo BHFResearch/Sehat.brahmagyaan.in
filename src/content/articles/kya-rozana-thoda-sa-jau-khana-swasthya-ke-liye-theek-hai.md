@@ -3,11 +3,11 @@ title: "क्या रोजाना थोड़ा सा जौ खान�
 category: "Digestion & Agni"
 pubDate: 2026-11-24
 description: "रोजाना थोड़ा सा जौ खाने के फायदे — आयुर्वेद और आधुनिक विज्ञान की नजर से सरल जानकारी।"
-image: "/images/articles/kya-rozana-thoda-sa-jau-khana-swasthya-ke-liye-theek-hai.jpg"
+image: "/images/articles/kya-rozana-thoda-sa-jau-khana-swasthya-ke-liye-theek-hai.webp"
 ---
 <figure style="margin:35px auto; text-align:center;">
   <img
-    src="/images/articles/kya-rozana-thoda-sa-jau-khana-swasthya-ke-liye-theek-hai.jpg"
+    src="/images/articles/kya-rozana-thoda-sa-jau-khana-swasthya-ke-liye-theek-hai.webp"
     alt="जौ की खिचड़ी या सूप खाती एक स्वस्थ महिला"
     loading="lazy"
     style="

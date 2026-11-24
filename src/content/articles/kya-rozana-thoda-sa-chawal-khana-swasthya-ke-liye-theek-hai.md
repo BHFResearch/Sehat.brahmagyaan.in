@@ -3,11 +3,11 @@ title: "क्या रोजाना थोड़ा सा चावल ख�
 category: "Ayurveda & Lifestyle"
 pubDate: 2026-11-24
 description: "रोजाना थोड़ा सा चावल खाने के फायदे और सावधानियां — आयुर्वेद और आधुनिक विज्ञान दोनों की नजर से जानें।"
-image: "/images/articles/kya-rozana-thoda-sa-chawal-khana-swasthya-ke-liye-theek-hai.jpg"
+image: "/images/articles/kya-rozana-thoda-sa-chawal-khana-swasthya-ke-liye-theek-hai.webp"
 ---
 <figure style="margin:35px auto; text-align:center;">
   <img
-    src="/images/articles/kya-rozana-thoda-sa-chawal-khana-swasthya-ke-liye-theek-hai.jpg"
+    src="/images/articles/kya-rozana-thoda-sa-chawal-khana-swasthya-ke-liye-theek-hai.webp"
     alt="स्वास्थ्य के लिए रोजाना थोड़ा सा चावल खाने की आदत"
     loading="lazy"
     style="

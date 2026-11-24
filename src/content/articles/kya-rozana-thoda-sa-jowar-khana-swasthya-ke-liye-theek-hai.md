@@ -3,11 +3,11 @@ title: "क्या रोजाना थोड़ा सा ज्वार �
 category: "Digestion & Agni"
 pubDate: 2026-11-24
 description: "ज्वार रोजाना खाने के फायदे और सावधानियां। आयुर्वेद और आधुनिक विज्ञान की नजर से पाचन और स्वास्थ्य पर असर समझें।"
-image: "/images/articles/kya-rozana-thoda-sa-jowar-khana-swasthya-ke-liye-theek-hai.jpg"
+image: "/images/articles/kya-rozana-thoda-sa-jowar-khana-swasthya-ke-liye-theek-hai.webp"
 ---
 <figure style="margin:35px auto; text-align:center;">
   <img
-    src="/images/articles/kya-rozana-thoda-sa-jowar-khana-swasthya-ke-liye-theek-hai.jpg"
+    src="/images/articles/kya-rozana-thoda-sa-jowar-khana-swasthya-ke-liye-theek-hai.webp"
     alt="ज्वार की रोटी खाते हुए स्वस्थ व्यक्ति का क्लोज-अप"
     loading="lazy"
     style="
